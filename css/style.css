@@ -1,0 +1,13 @@
+h3{
+	text-align: center;
+	background-color: deeppink;
+}
+.box{
+	min-height: 30px;
+	background-color: orange;
+}
+.mh_100{
+	margin-bottom: 10px;
+	min-height: 100px;
+	background-color: gray;
+}
